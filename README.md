@@ -25,6 +25,7 @@ I bridge the gap between **enterprise business strategy** and **secure, scalable
 * **Mitigate Threats and Vulnerabilities with Security Command Center** — *Skill Badge (Issued Jun 2026)*
 * **Build a Secure Google Cloud Network** — *Skill Badge (Issued May 2025)*
 * **Vanta Administration & Compliance Automation** *(SOC 2 / ISO 27001)*
+* * **Verified Vanta Admin** — *Vanta (Issued Feb 2026 · Expires Jan 2027 · Credential ID: `xtzWXSL-VQ`)*
 
 #### Cloud Architecture, Kubernetes & Operations
 * **Cloud Architecture: Design, Implement, and Manage** — *Skill Badge (Issued May 2025)*
