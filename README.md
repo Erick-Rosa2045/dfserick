@@ -1,4 +1,4 @@
-# dfseric - erick-rosa2045
+#erick-rosa2045
 Erick Rosa's GitHub Profile README — Google Cloud Architecture, Security & Enterprise Advisory
 
 # Hi, I'm Erick Rosa — Cloud Architect & Enterprise Technical Advisor
